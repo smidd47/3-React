@@ -223,3 +223,5 @@ class Contact extends Component {
 }
 
 export default Contact;
+
+// "React Redux Forms Revisited"
